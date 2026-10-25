@@ -9,7 +9,7 @@
 **Course:** Machine Learning Fundamentals (AIC354)  
 **Assignment:** Assignment 3 — Applying, Evaluating, and Comparing Multiple ML Algorithms on Large Real-World Dataset  
 **Institution:** COMSATS University Islamabad, Lahore Campus  
-**Instructor:** Dr. Rao Muhammad Adeel Nawab  
+**Instructor:** Miss Ifra Saeed  
 **Developer:** Rubeem Afzal (FA24-BED-058)  
 **Live Cloud Deployment:** [https://housing-price-prediction-rubeem-24.streamlit.app/](https://housing-price-prediction-rubeem-24.streamlit.app/)  
 **GitHub Repository:** [https://github.com/Rubeem-24](https://github.com/Rubeem-24)  
