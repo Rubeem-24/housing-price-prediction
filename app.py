@@ -2,7 +2,7 @@
 California Housing Price Prediction System
 ------------------------------------------
 Course      : Machine Learning Fundamentals (AIC354)
-Instructor  : Dr. Rao Muhammad Adeel Nawab
+Instructor  : Miss Ifra Saeed
 Institution : COMSATS University Islamabad, Lahore Campus
 Developer   : Rubeem Afzal (FA24-BED-058)
 GitHub      : https://github.com/Rubeem-24
